@@ -16,3 +16,4 @@ A lightweight and highly customizable QR Code generator built in Python. This pr
 To run this project locally, make sure you have Python installed. Then, install the required dependencies:
 
 ```bash
+pip install qrcode[pil] Pillow
